@@ -1,0 +1,45 @@
+body 
+{
+    font-style: oblique;
+  background-color: #0d4a74;
+  text-align: center;
+}
+h1 
+{
+  color: rgb(255, 255, 255);
+  border-style: solid;
+  border-color:rgb(92, 134, 173);  
+  border-width:2px;
+  padding: 10px;
+}
+#nome
+{
+  text-decoration: underline;
+  font-size:40px;
+  color: rgb(5, 38, 82);
+  background: white;
+}
+a
+{
+  color: blue;
+  font-size: 20px;
+  border-style: dashed;
+  border-color: darkblue;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+p{
+  color: rgb(219, 65, 65);
+  word-spacing: 10px;
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.informacoes{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
+
